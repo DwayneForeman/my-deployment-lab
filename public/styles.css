@@ -6,3 +6,22 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+p {
+
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: crimson;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+  padding: 20px 20px;
+  color: white;
+  background-color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+  box-shadow: none;
+}
